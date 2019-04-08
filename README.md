@@ -11,4 +11,4 @@ Code of Udemy The Complete Self-Driving Car Course
 
 * Master Keras, a power Neural Network library written in Python.
 
-* Build and train a fully functional self driving car to drive on its own!
+* Build and train a fully functional self driving car to drive on its own.
