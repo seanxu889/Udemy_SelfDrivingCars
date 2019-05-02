@@ -15,3 +15,6 @@ Code of Udemy The Complete Self-Driving Car Course
 
 Self Driving Cars Behavioural Cloning Demo:
 ![image](https://github.com/seanxu889/Udemy-Self-Driving-Cars/blob/master/9_Self-Driving_Cars_Behavioural_Cloning/Demo/Demo_Behavioural_Cloning.gif)
+
+Identify Lane Lines Demo:
+![image](https://github.com/seanxu889/Udemy-Self-Driving-Cars/blob/master/1_Finding_Lane_Lines/Demo/Demo_identify%20lane_lines.gif)
