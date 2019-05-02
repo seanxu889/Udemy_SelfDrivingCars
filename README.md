@@ -1,19 +1,17 @@
 # Udemy-Self-Driving-Cars
 Code of Udemy The Complete Self-Driving Car Course
 
-* Use Computer Vision techniques via OpenCV to identify lane lines for a self-driving car.
+* Use OpenCV to identify lane lines for a self-driving car.
 
-* Learn to train a Perceptron-based Neural Network to classify between binary classes.
+* Train a Perceptron-based Neural Network to classify between binary classes.
 
-* Learn to train Convolutional Neural Networks to identify between various traffic signs.
+* Train Convolutional Neural Networks to identify between various traffic signs.
 
 * Train Deep Neural Networks to fit complex datasets.
 
-* Master Keras, a power Neural Network library written in Python.
-
 * Build and train a fully functional self driving car to drive on its own.
 
-* Assignments for Kalman Filters course.
+* My assignments for Kalman Filters course.
 
 Self Driving Cars Behavioural Cloning Demo:
 ![image](https://github.com/seanxu889/Udemy-Self-Driving-Cars/blob/master/9_Self-Driving_Cars_Behavioural_Cloning/Demo/Demo_Behavioural_Cloning.gif)
